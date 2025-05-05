@@ -1,0 +1,32 @@
+ecommerce1.js:57 ***ALL PRODUCTS:***
+ecommerce1.js:60 ID: 1a  Name: laptop Description:hp laptop  Price: 20000  Stock: 50 Category: electronics Tags: student laptop,office laptop,system
+ecommerce1.js:71 discount:percentage
+ecommerce1.js:71 discount:10
+ecommerce1.js:60 ID: 1b  Name: tv Description:samsung tv  Price: 30000  Stock: 40 Category: electronics Tags: samsung,tv,electronics
+ecommerce1.js:71 discount:percentage
+ecommerce1.js:71 discount:15
+ecommerce1.js:60 ID: 1c  Name: watch Description:joker and witch  Price: 1000  Stock: 60 Category: watch Tags: watch,branded watch,unisex watch
+ecommerce1.js:71 discount:percentage
+ecommerce1.js:71 discount:5
+ecommerce1.js:60 ID: 1d  Name: shoe Description:puma shoe  Price: 5000  Stock: 60 Category: footwear Tags: shoes,branded shoe,unisex footwear
+ecommerce1.js:71 discount:percentage
+ecommerce1.js:71 discount:5
+ecommerce1.js:80 ***Filtered: Array(2)
+ecommerce1.js:84 ***Found Product: Object
+ecommerce1.js:103 Stock update of 1b is 40
+ecommerce1.js:125 ***adding Tag to Product id '1c'
+ecommerce1.js:118 Tag 'casual wear' added to product ID '1d'
+ecommerce1.js:140  ***Remove Product '1a':
+ecommerce1.js:134 Product with ID '1a' removed
+ecommerce1.js:142 ***After Removing Product:
+ecommerce1.js:60 ID: 1b  Name: tv Description:samsung tv  Price: 30000  Stock: 40 Category: electronics Tags: samsung,tv,electronics
+ecommerce1.js:71 discount:percentage
+ecommerce1.js:71 discount:15
+ecommerce1.js:60 ID: 1c  Name: watch Description:joker and witch  Price: 1000  Stock: 60 Category: watch Tags: watch,branded watch,unisex watch
+ecommerce1.js:71 discount:percentage
+ecommerce1.js:71 discount:5
+ecommerce1.js:60 ID: 1d  Name: shoe Description:puma shoe  Price: 5000  Stock: 60 Category: footwear Tags: shoes,branded shoe,unisex footwear,casual wear
+ecommerce1.js:71 discount:percentage
+ecommerce1.js:71 discount:5
+ecommerce1.js:154 ***TotalValue :
+ecommerce1.js:151 Total Inventory Value: 1560000
